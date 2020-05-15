@@ -2,7 +2,7 @@
 
 int main()
 {
-  printf("First OSS Code\n");
-  ptinrf("Thrid OSS Code\n");
+  printf("안녕하세요");
+  ptinrf("네 안녕하세요");
   return 0;
 }
